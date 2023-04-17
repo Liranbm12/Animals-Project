@@ -4,7 +4,7 @@ html, body {
     padding: 0;
     font-size: x-large;
     text-align: center;
-    background-image: linear-gradient(darkgray, blue);
+    background-image: linear-gradient(darkgray, rgba(0, 0, 255, 0.951));
 }
 
 a {
