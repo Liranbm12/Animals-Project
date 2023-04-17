@@ -31,3 +31,9 @@ ul {
     border: 1px solid;
     
 }
+
+table, th, td {
+    margin: auto;
+    border: 1px solid;
+
+}
